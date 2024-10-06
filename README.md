@@ -39,16 +39,14 @@ Our project aims to develop a framework that ensures error recovery and data sec
 <h4>References</h4>
 - https://www.cs.cmu.edu/~guyb/realworld/reedsolomon/reed_solomon_codes.html<br>
 - https://ieeexplore.ieee.org/document/5194437<br>
-- https://en.wikipedia.org/wiki/Voyager_2<br>
-- https://www.youtube.com/watch?v=1pQJkt7-R4Q<br>
-- https://www.youtube.com/watch?v=6X1OCX-iq9w
   
 </details>
 
 ## Functional Block Diagram
 <details>
   <summary>Detail</summary>
-  ![S1-T1-functional-block-diagram](https://github.com/user-attachments/assets/2d5d6955-57a3-4408-9581-c3350bba5869)
+  <img src = "https://github.com/user-attachments/assets/8d5063b7-ef4f-4097-b9cb-b37e20bfee59" alt="S1-T1-Functional-Block-Diagram">
+
 
 </details>
 
