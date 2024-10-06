@@ -45,9 +45,8 @@ Our project aims to develop a framework that ensures error recovery and data sec
 ## Functional Block Diagram
 <details>
   <summary>Detail</summary>
-  <img src = "https://github.com/user-attachments/assets/8d5063b7-ef4f-4097-b9cb-b37e20bfee59" alt="S1-T1-Functional-Block-Diagram">
-
-
+  <img src = "https://github.com/user-attachments/assets/3abe5566-c0a0-4bb8-9030-03cb0b73ae52" alt="S1-T1-Functional-Block-Diagram">
+  
 </details>
 
 <!-- Third Section -->
