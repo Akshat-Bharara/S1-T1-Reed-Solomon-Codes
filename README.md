@@ -2573,3 +2573,13 @@ endmodule
 
 </details>
 
+### References
+<details>
+
+  <summary>Detail</summary>
+  
+- [CMU CS College article for reed solomon codes](https://www.cs.cmu.edu/~guyb/realworld/reedsolomon/reed_solomon_codes.html)<br>
+- [IEEE explore article](https://ieeexplore.ieee.org/document/5194437)<br>
+   
+</details>
+
