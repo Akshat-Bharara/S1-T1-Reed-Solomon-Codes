@@ -53,150 +53,34 @@ Our project aims to develop a framework that ensures error recovery and data sec
 
 <!-- Third Section -->
 ## Working
+
+   <details>
+
+  
+  <summary>Description</summary>
+
+</details>
+
+
+
 <details>
-  <summary>Detail</summary>
-
-   ### DESCRIPTION
-
-
-
----
-
-### DESIGN:
+  <summary>Design</summary>
+  
+</details>
 
 
 
-### Functional table:
-    
-                     First Testcase
-    
-    Message to be sent:
-    
-    Data 1: 0010
-    Data 2: 0010
-    Data 3: 0011
-    Data 4: 0011
-    Data 5: 0100
-    Data 6: 0100
-    Data 7: 0101
-    Data 8: 0101
-    
-    Applying Vignere cipher encryption...
-    
-    Encrypted messgae:
-    
-    Encrypted Data 1: 0111
-    Encrypted Data 2: 0111
-    Encrypted Data 3: 0000
-    Encrypted Data 4: 0000
-    Encrypted Data 5: 0001
-    Encrypted Data 6: 0001
-    Encrypted Data 7: 0010
-    Encrypted Data 8: 0010
-    
-    Lagrange interpolation applied
-    
-    Data sent by the Transmitter
-    
-    Data Received by the Receiver:
-    
-    Received message:
-    
-    Data 1: 0111
-    Data 2: 0111
-    Data 3: 0000
-    Data 4: 0000
-    Data 5: xxxx
-    Data 6: xxxx
-    Data 7: xxxx
-    Data 8: xxxx
-    
-    Lost count: 4
-    Transfer failed: 0
-    
-    Applying lagrange interpolation to recover lost data...
-    
-    
-    Lost data recovered!
-    
-    Recovered data:
-    
-    Data 1: 0111
-    Data 2: 0111
-    Data 3: 0000
-    Data 4: 0000
-    Data 5: 0001
-    Data 6: 0001
-    Data 7: 0010
-    Data 8: 0010
-    
-    Decrypting received message...
-    
-    Final decrypted message:
-    
-    Data 1: 0010
-    Data 2: 0010
-    Data 3: 0011
-    Data 4: 0011
-    Data 5: 0100
-    Data 6: 0100
-    Data 7: 0101
-    Data 8: 0101
-    
-    Does the received output match the message sent? : 1
-    
-    
-                     Second Testcase
-    
-    Message to be sent:
-    
-    Data 1: 0010
-    Data 2: 0010
-    Data 3: 0011
-    Data 4: 0011
-    Data 5: 0100
-    Data 6: 0100
-    Data 7: 0101
-    Data 8: 0101
-    
-    Applying Vignere cipher encryption...
-    
-    Encrypted messgae:
-    
-    Encrypted Data 1: 0111
-    Encrypted Data 2: 0111
-    Encrypted Data 3: 0000
-    Encrypted Data 4: 0000
-    Encrypted Data 5: 0001
-    Encrypted Data 6: 0001
-    Encrypted Data 7: 0010
-    Encrypted Data 8: 0010
-    
-    Lagrange interpolation applied
-    
-    Data sent.
-    
-    Data Received:
-    
-    Received message:
-    
-    Data 1: 0111
-    Data 2: xxxx
-    Data 3: 0000
-    Data 4: 0000
-    Data 5: xxxx
-    Data 6: xxxx
-    Data 7: xxxx
-    Data 8: xxxx
-    
-    Lost count: 5
-    Transfer failed: 1
-    According to Reed Solomon codes, cannot recover the data since more than 50 percent of the data is lost
----
+<details>
+  <summary>Functional Table</summary>
+  <img src = "https://github.com/user-attachments/assets/10cd7ffb-7894-49cb-ba86-64139ad98791"/>
 
-### Flowchart
- ![S1-T1-state-diagram](https://github.com/user-attachments/assets/45aac615-9306-419e-9eb0-97e366d797f5)
+</details>
 
+
+<details>
+  <summary>Flowchart</summary>
+  <img src = "https://github.com/user-attachments/assets/45aac615-9306-419e-9eb0-97e366d797f5"/>
+</details>
 
 </details>
 
@@ -207,6 +91,7 @@ Our project aims to develop a framework that ensures error recovery and data sec
 
   > Update a neat logisim circuit diagram
 </details>
+
 
 <!-- Fifth Section -->
 ## Verilog Code
