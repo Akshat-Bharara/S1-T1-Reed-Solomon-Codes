@@ -1,7 +1,7 @@
 // S1-T1-Reed-Solomon-Codes
 // Data Recovery and Error Correction in Space Communication
 
-// Gate level model
+// Behvaioural level model
 
 // Member-1: Akshat Bharara, Roll No: 231CS110
 // Member-2: Dev Prajapati, Roll No: 231CS120
