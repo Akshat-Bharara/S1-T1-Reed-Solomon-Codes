@@ -219,18 +219,15 @@ process of doing Lagrange Polynomials.
 <details>
   <summary>Detail</summary>
 
-![S1-T1-Logisim-main](https://github.com/user-attachments/assets/dd18903f-2172-4f92-a22e-8550745562cd)
+![Logisim-S1-T1-main](https://github.com/user-attachments/assets/ef55cdce-907e-4ee3-9911-848d4ec4594b)
 
-
-![pic1](https://github.com/user-attachments/assets/4adeda4a-a949-42d9-b3e0-8d73b4c9c4a3)
-
-![pic2](https://github.com/user-attachments/assets/0901dfaf-d3f4-49ac-8f83-a3e281a30475)
-
-![pic3](https://github.com/user-attachments/assets/2cf496a8-4382-48b4-88eb-0086fac0396d)
-
-![pic4](https://github.com/user-attachments/assets/cdedafef-8791-478a-b4dc-aafcfa49ceef)
-
-![pic5](https://github.com/user-attachments/assets/fa6c85e8-da98-4e9e-b067-8bd5ba4b7b27)
+![Logisim-S1-T1-1](https://github.com/user-attachments/assets/c810ba7c-4c14-477b-b92a-8a449879bae3)
+![Logisim-S1-T1-2](https://github.com/user-attachments/assets/42532699-3fc1-4008-9b6c-56785e90e157)
+![Logisim-S1-T1-3](https://github.com/user-attachments/assets/0e78b35b-8fe1-4a6c-a88c-280757eacc8d)
+![Logisim-S1-T1-4](https://github.com/user-attachments/assets/3f3ca144-5fe2-475c-a019-b54938763517)
+![Logisim-S1-T1-5](https://github.com/user-attachments/assets/9f08a752-a1ac-49c3-bb36-bebda971f212)
+![Logisim-S1-T1-6](https://github.com/user-attachments/assets/e34bd539-3f41-494a-8fe3-4debc0235a41)
+![Logisim-S1-T1-7](https://github.com/user-attachments/assets/ec47d4a2-5f14-418f-87c9-cdc96bb3887a)
 
 
 </details>
