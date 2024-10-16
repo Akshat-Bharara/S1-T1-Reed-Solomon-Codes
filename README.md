@@ -219,7 +219,20 @@ process of doing Lagrange Polynomials.
 <details>
   <summary>Detail</summary>
 
-  > Update a neat logisim circuit diagram
+![S1-T1-Logisim-main](https://github.com/user-attachments/assets/dd18903f-2172-4f92-a22e-8550745562cd)
+
+
+![pic1](https://github.com/user-attachments/assets/4adeda4a-a949-42d9-b3e0-8d73b4c9c4a3)
+
+![pic2](https://github.com/user-attachments/assets/0901dfaf-d3f4-49ac-8f83-a3e281a30475)
+
+![pic3](https://github.com/user-attachments/assets/2cf496a8-4382-48b4-88eb-0086fac0396d)
+
+![pic4](https://github.com/user-attachments/assets/cdedafef-8791-478a-b4dc-aafcfa49ceef)
+
+![pic5](https://github.com/user-attachments/assets/fa6c85e8-da98-4e9e-b067-8bd5ba4b7b27)
+
+
 </details>
 
 
