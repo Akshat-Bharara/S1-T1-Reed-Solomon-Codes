@@ -1,4 +1,13 @@
 # Logisim snapshots
+![Logisim-S1-T1-main](https://github.com/user-attachments/assets/89fcdee5-3720-4bb9-bf8c-74b34d1227a7)
+![Logisim-S1-T1-1](https://github.com/user-attachments/assets/6c8de8b8-7022-4de2-a6de-1e1c7bd4775c)
+![Logisim-S1-T1-2](https://github.com/user-attachments/assets/d58407b3-846b-40b2-b31a-cd6dc60fe1be)
+![Logisim-S1-T1-3](https://github.com/user-attachments/assets/24e2cd30-274b-47e3-8af3-012580ea4e45)
+![Logisim-S1-T1-4](https://github.com/user-attachments/assets/193af810-c344-4d76-9bc1-f85952ea0beb)
+![Logisim-S1-T1-5](https://github.com/user-attachments/assets/379d5a28-4cff-4a4e-a752-5058f120e1dc)
+![Logisim-S1-T1-6](https://github.com/user-attachments/assets/37727e60-7b51-40bc-91e7-60c22a12264a)
+![Logisim-S1-T1-7](https://github.com/user-attachments/assets/75640b6e-e3d5-468b-aa4e-adfd21b04abb)
+
 
 # Verilog snapshots
 
