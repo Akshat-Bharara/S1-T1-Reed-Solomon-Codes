@@ -58,7 +58,18 @@ Our project aims to develop a framework that ensures error recovery and data sec
 
   
   <summary>Description</summary>
+<h3>Logisim operation Guide</h3>
+<ul>
+  <li>Before starting, reset the given inputs by the reset inputs button.</li>
+  <li>Set the inputs by selecting y1, y2, y3, y4, and the key of your choice and press "set inputs".</li>
+  <li>Keep all the inputs to be 4 bits only; we have used 16-bit inputs for handling overflow conditions.</li>
+  <li>Set the value from the synchronous counter to demonstrate the amount of bits lost.</li>
+  <li>After this, put the values of the indices lost, as indicated (e.g., 2nd and 4th value are lost).</li>
+  <li>After setting the values, the outputs are shown using the counter: y1', y2', y3', y4'.</li>
+  <li>Check the three LED lights to see if the data is recovered or not for every case.</li>
+</ul>
 
+<h3>Module Summary</h3>
 We have used a module initially to encrypt the data using the Vignere cipher. Then we have
 proceeded with Lagrange Interpolation for values of x as 1,2,3,4 till 8 along with the encrypted data
 as received by the module of Vignere cipher. Later we have generated extra error correcting codes
@@ -218,9 +229,8 @@ process of doing Lagrange Polynomials.
 ## Logisim Circuit Diagram
 <details>
   <summary>Detail</summary>
-
-![Logisim-S1-T1-main](https://github.com/user-attachments/assets/ef55cdce-907e-4ee3-9911-848d4ec4594b)
-
+  
+![Logisim-S1-T1-main](https://github.com/user-attachments/assets/3e5a02f3-9ace-4304-8812-82d97152c06f)
 ![Logisim-S1-T1-1](https://github.com/user-attachments/assets/c810ba7c-4c14-477b-b92a-8a449879bae3)
 ![Logisim-S1-T1-2](https://github.com/user-attachments/assets/42532699-3fc1-4008-9b6c-56785e90e157)
 ![Logisim-S1-T1-3](https://github.com/user-attachments/assets/0e78b35b-8fe1-4a6c-a88c-280757eacc8d)
