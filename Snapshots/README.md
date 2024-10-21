@@ -1,5 +1,5 @@
 # Logisim snapshots
-![Logisim-S1-T1-main](https://github.com/user-attachments/assets/89fcdee5-3720-4bb9-bf8c-74b34d1227a7)
+![Logisim-S1-T1-main](https://github.com/user-attachments/assets/5d21d9e2-c3c1-42c4-ad7f-2435b5ecd545)
 ![Logisim-S1-T1-1](https://github.com/user-attachments/assets/6c8de8b8-7022-4de2-a6de-1e1c7bd4775c)
 ![Logisim-S1-T1-2](https://github.com/user-attachments/assets/d58407b3-846b-40b2-b31a-cd6dc60fe1be)
 ![Logisim-S1-T1-3](https://github.com/user-attachments/assets/24e2cd30-274b-47e3-8af3-012580ea4e45)
