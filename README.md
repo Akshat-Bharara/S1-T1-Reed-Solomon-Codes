@@ -2593,15 +2593,17 @@ endmodule
 
 </details>
 
-## Hardware circuit diagram
+## Hardware implementation
 <details>
 
-  <summary>Detail</summary>
+  <summary>Circuit Diagram</summary>
 
   ![S1-T1-Hardware-Implementation-Circuit](https://github.com/user-attachments/assets/f614a0c1-5ef0-4cec-be85-49d8c3b7c65b)
-
-
    
+</details>
+
+<details>
+  <summary>Demo video</summary>
 </details>
 
 </details>
