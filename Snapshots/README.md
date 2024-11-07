@@ -1,3 +1,7 @@
+# Hardware implementation circuit
+![S1-T1-Hardware-Implementation-Circuit](https://github.com/user-attachments/assets/3f905e6a-4928-491e-b8da-0a3aafbd7676)
+
+
 # Logisim snapshots
 ![Logisim-S1-T1-main](https://github.com/user-attachments/assets/5d21d9e2-c3c1-42c4-ad7f-2435b5ecd545)
 ![Logisim-S1-T1-1](https://github.com/user-attachments/assets/6c8de8b8-7022-4de2-a6de-1e1c7bd4775c)
@@ -15,3 +19,5 @@
 <img width="960" alt="Verilog-S1-T1-2" src="https://github.com/user-attachments/assets/32c0c6fc-e150-4dde-8e96-57f9d009a62a">
 <img width="960" alt="Verilog-S1-T1-3" src="https://github.com/user-attachments/assets/1fa359eb-a64f-401e-bde7-150cc30c3ae9">
 <img width="960" alt="Verilog-S1-T1-4" src="https://github.com/user-attachments/assets/6d5884c2-bd85-48cf-9ff7-9d80bf4214f7">
+
+
