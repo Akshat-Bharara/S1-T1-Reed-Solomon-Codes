@@ -2605,7 +2605,7 @@ endmodule
 <details>
   <summary>Demo video</summary>
   
-  ![S1-T1-Hardware-Implementation-Video](https://github.com/user-attachments/assets/f7f53363-5d5f-439d-a34d-838060a3da91)
+  [![S1-T1-Hardware-Implementation-Video](https://github.com/user-attachments/assets/f7f53363-5d5f-439d-a34d-838060a3da91)](https://github-production-user-asset-6210df.s3.amazonaws.com/139644618/383889673-f7f53363-5d5f-439d-a34d-838060a3da91.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241107T091312Z&X-Amz-Expires=300&X-Amz-Signature=0233ed314df5d48ef4837ea550e5040623048b5cffd83f306a4750626d7ee0d1&X-Amz-SignedHeaders=host)
   
 </details>
 
