@@ -2604,6 +2604,9 @@ endmodule
 
 <details>
   <summary>Demo video</summary>
+  
+  ![S1-T1-Hardware-Implementation-Video](https://github.com/user-attachments/assets/f7f53363-5d5f-439d-a34d-838060a3da91)
+  
 </details>
 
 </details>
